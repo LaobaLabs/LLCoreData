@@ -30,7 +30,7 @@ class LLCoreDataDataSource: NSObject
             
         } catch let error
         {
-            print("Error getting rooms: \(error)")
+            print("Error getting objects: \(error)")
         }
         
         return objectsArray
