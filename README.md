@@ -1,0 +1,1 @@
+These are classes that simplify Fetching, Creating, and deleting objects from CoreData. You can create LLCoreDataDataSources from the LLCoreDataManager singleton, just don't forget to set your apps persistentContainer
