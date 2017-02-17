@@ -6,7 +6,6 @@
 //  Copyright © 2017 Laoba Labs. All rights reserved.
 //
 
-import UIKit
 import CoreData
 
 class LLCoreDataDataSource: NSObject
